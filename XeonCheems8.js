@@ -1481,7 +1481,7 @@ const repf = await XeonBotInc.sendMessage(from, {
 contacts: { 
 displayName: `${list.length} Contact`, 
 contacts: list }, mentions: [sender] }, { quoted: m })
-XeonBotInc.sendMessage(from, { text : `Hi @${sender.split("@")[0]}, Here is my handsome owner😇`, mentions: [sender]}, { quoted: repf })
+XeonBotInc.sendMessage(from, { text : `Hi @${sender.split("@")[0]}, Here are my masters thst i obay`, mentions: [sender]}, { quoted: repf })
 }
 break
 case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
@@ -1490,17 +1490,17 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let timestampe = speed()
             let latensie = speed() - timestampe
             xeonezy = `┌─❖
-│ I am a man of my words and this 
-│ goes to my brothers out there
-│  You suffer with me and i shall
-│ stick by your side
-│ by 𝙼𝙰𝙸𝙺𝙸
+│ *I am a man of my words and this* 
+│ *goes to my brothers out there*
+│  *You suffer with me and i shall*
+│ *stick by your side*
+│ *by 𝙼𝙰𝙸𝙺𝙸*
 └┬❖  ${pushname} 
 ┌┤✑  ${xeonytimewisher} 😄
 │└────────────┈ ⳹
 │VIPS
-│𝙼𝙰𝙸𝙺𝙸
-│NATHAN
+│*𝙼𝙰𝙸𝙺𝙸*
+│*NATHAN*
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊        
 │𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
 │𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : ${runtime(process.uptime())}
