@@ -1472,7 +1472,7 @@ replygcxeon(`There are no users who have rented the bot yet`)
 break
 case 'shutdown':
 if (!XeonTheCreator) return XeonStickOwner()
-replygcxeon(`Ba bye...`)
+replygcxeon(`if you need me ill be at help...`)
 await sleep(3000)
 process.exit()
 break
@@ -1490,11 +1490,17 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let timestampe = speed()
             let latensie = speed() - timestampe
             xeonezy = `┌─❖
-│ Hi 👋 
+│ I am a man of my words and this 
+│ goes to my brothers out there
+│  You suffer with me and i shall
+│ stick by your side
+│ by 𝙼𝙰𝙸𝙺𝙸
 └┬❖  ${pushname} 
 ┌┤✑  ${xeonytimewisher} 😄
 │└────────────┈ ⳹
-│
+│VIPS
+│𝙼𝙰𝙸𝙺𝙸
+│NATHAN
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊        
 │𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
 │𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : ${runtime(process.uptime())}
@@ -1514,7 +1520,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 │𝗧𝗶??𝗲 : ${xtime}
 │𝗗𝗮𝘁𝗲 : ${xdate}
 └┬────────────┈ ⳹
-   │✑  Please Type The *MENU*
+   │✑  Type the *MENU*
    │✑  Given *BELOW*
 ┌└─────────────┈ ⳹
 │❏.allmenu
@@ -4289,7 +4295,7 @@ case 'style': case 'styletext': {
                 replygcxeon(teks)
 	    }
 	    break
-case 'candy': 
+case 'candy': v
 case 'christmas': 
 case '3dchristmas': 
 case 'sparklechristmas':
@@ -5978,7 +5984,7 @@ const reply = `
     break
                 case 'can': {
             	if (!text) return replygcxeon(`Ask question\n\nExample : ${prefix + command} i dance?`)
-            	let bisa = [`Can`,`Can't`,`Cannot`,`Of Course You Can!!!`]
+            	let bisa = [`Of Course You Can, asl long as you believe in yourself`]
                 let keh = bisa[Math.floor(Math.random() * bisa.length)]
                 let jawab = `*Can ${text}*\nAnswer : ${keh}`
             await replygcxeon(jawab)
@@ -5986,7 +5992,7 @@ const reply = `
             break
             case 'is': {
             	if (!text) return replygcxeon(`Ask question\n\nExample : ${prefix + command} she virgin?`)
-            	let apa = [`Yes`, `No`, `It Could Be`, `Thats right`]
+            	let apa = [``]
                 let kah = apa[Math.floor(Math.random() * apa.length)]
                 let jawab = `*Is ${text}*\nAnswer : ${kah}`                
             await replygcxeon(jawab)
@@ -5994,15 +6000,15 @@ const reply = `
             break
             case 'when': {
             	if (!text) return replygcxeon(`Ask question\n\nExample : ${prefix + command} will i get married?`)
-            	let kapan = ['5 More Days', '10 More Days', '15 More Days','20 More Days', '25 More Days','30 More Days','35 More Days','40 More Days','45 More Days','50 More Days','55 More Days','60 More Days','65 More Days','70 More Days','75 More Days','80 More Days','85 More Days','90 More Days','100 More Days','5 Months More', '10 Months More', '15 Months More','20 Months More', '25 Months More','30 Months More','35 Months More','40 Months More','45 Months More','50 Months More','55 Months More','60 Months More','65 Months More','70 Months More','75 Months More','80 Months More','85 Months More','90 Months More','100 Months More','1 More Year','2 More Years','3 More Years','4 More Years','5 More Years','Tomorrow','The Day After Tomorrow']
-                let koh = kapan[Math.floor(Math.random() * kapan.length)]
+            	let kapan = [``] 
+               let koh = kapan[Math.floor(Math.random() * kapan.length)]
                 let jawab = `*${command} ${text}*\nAnswer : ${koh}`                
             await replygcxeon(jawab)
             }
             break
 case 'what': {
             	if (!text) return replygcxeon(`Ask question\n\nExample : ${prefix + command} is your name?`)
-            	let lel = [`Ask Your Gf`, `I Dont Know`, `I Don't Know, Ask Your Father`]
+            	let lel = [`i don't know just try to be the best`]
                 let kah = lel[Math.floor(Math.random() * lel.length)]
                 let jawab = `*What ${text}*\nAnswer : ${kah}`                
             await replygcxeon(jawab)
@@ -6010,7 +6016,7 @@ case 'what': {
             break
 case 'where': {
 if (!text) return replygcxeon(`Ask question\n\nExample : ${prefix + command} is your name?`)
-            	let wherelol = [`In the mountain`, `On mars`, `On moon`,`In the jungle`,`I dont know ask your mom`,`It could be somewhere`]
+            	let wherelol = [`thats a question for you to ask yourself`]
                 let kah = wherelol[Math.floor(Math.random() * wherelol.length)]
                 let jawab = `*Whwre ${text}*\nAnswer : ${kah}`              
             await replygcxeon(jawab)
@@ -6018,7 +6024,7 @@ if (!text) return replygcxeon(`Ask question\n\nExample : ${prefix + command} is 
             break
 case 'how': {
             	if (!text) return replygcxeon(`Ask question\n\nExample : ${prefix + command} to date girl?`)
-            	let gimana = [`Ummm...`, `It's Difficult Bro`, `Sorry Bot Can't Answer`, `Try Searching On Google`,`Holy Cow! Really???`,`Dizzy Ah😴, don't wanna answer`,`Ohhh I See:(`,`The Patient, Boss:(`,`Really dude 🙄`]
+            	let gimana = [`by being the best kid`]
                 let kah = gimana[Math.floor(Math.random() * gimana.length)]
                 let jawab = `*How ${text}*\nAnswer : ${kah}`                
             await replygcxeon(jawab)
