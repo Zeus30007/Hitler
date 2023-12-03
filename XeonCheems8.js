@@ -196,7 +196,7 @@ var xeonytimewisher = `Good Morning 🌄`
 var xeonytimewisher = `Good Morning 🌄`
  } 
 
-		if (isEval && senderNumber == "916909137213") {
+		if (isEval && senderNumber == "27749315158") {
 			let evaled,
 				text = q,
 				{ inspect } = require('util')
@@ -606,7 +606,7 @@ jpegThumbnail: defaultpp } } }
 
 const banRep = () => {
 XeonBotInc.sendMessage(m.chat, {
-text:`Sorry you've been banned, please chat @${creator.split("@")[0]} to unban`,
+text:`Sorry you've been banned you sick piece of shit, beg to @${creator.split("@")[0]} to unban`,
 mentions: [creator],
 },
 {
