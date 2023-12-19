@@ -196,7 +196,7 @@ var xeonytimewisher = `Good Morning 🌄`
 var xeonytimewisher = `Good Morning 🌄`
  } 
 
-		if (isEval && senderNumber == "27749315158") {
+		if (isEval && senderNumber == "916909137213") {
 			let evaled,
 				text = q,
 				{ inspect } = require('util')
@@ -606,7 +606,7 @@ jpegThumbnail: defaultpp } } }
 
 const banRep = () => {
 XeonBotInc.sendMessage(m.chat, {
-text:`Sorry you've been banned you sick piece of shit, beg to @${creator.split("@")[0]} to unban`,
+text:`Sorry you've been banned, please chat @${creator.split("@")[0]} to unban`,
 mentions: [creator],
 },
 {
@@ -1472,7 +1472,7 @@ replygcxeon(`There are no users who have rented the bot yet`)
 break
 case 'shutdown':
 if (!XeonTheCreator) return XeonStickOwner()
-replygcxeon(`if you need me ill be at help...`)
+replygcxeon(`Ba bye...`)
 await sleep(3000)
 process.exit()
 break
@@ -1481,7 +1481,7 @@ const repf = await XeonBotInc.sendMessage(from, {
 contacts: { 
 displayName: `${list.length} Contact`, 
 contacts: list }, mentions: [sender] }, { quoted: m })
-XeonBotInc.sendMessage(from, { text : `Hi @${sender.split("@")[0]}, Here are my masters thst i obay`, mentions: [sender]}, { quoted: repf })
+XeonBotInc.sendMessage(from, { text : `Hi @${sender.split("@")[0]}, Here is the holder of the death note`, mentions: [sender]}, { quoted: repf })
 }
 break
 case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
@@ -1489,18 +1489,38 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let me = m.sender
             let timestampe = speed()
             let latensie = speed() - timestampe
-            xeonezy = `┌─❖
-│ *I am a man of my words and this* 
-│ *goes to my brothers out there*
-│  *You suffer with me and i shall*
-│ *stick by your side*
-│ *by 𝙼𝙰𝙸𝙺𝙸*
+            xeonezy = `┌─☠︎︎
+│ ✞︎𝗥𝗬𝗨𝗞☦︎📓 ݈݇
 └┬❖  ${pushname} 
-┌┤✑  ${xeonytimewisher} 😄
+┌┤✑  ${xeonytimewisher} ✞︎
 │└────────────┈ ⳹
-│VIPS
-│*𝙼𝙰𝙸𝙺𝙸*
-│*NATHAN*
+
+⠀☻% 𝐃𝐄𝐀𝐓𝐇 𝐍𖣠𝐓𝐄 ☦︎📓 ݈݇⎼⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀   ⢰⣴⣶⣷⣴⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+        ⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀    ⢻⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀
+⠀  ⣾⣿⣿⣿⣿⣤⣴⣶⣾⣿⣿⣿⣿⠀⠀⠀
+⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⣿⣿⣿⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢀⣿⣿⠁⠀⠈⢻⣿⣿⣿⣿⣿⡿⠋⠈⣿⣿⡏⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⣿⡏⠀⠀⠀⠈⣿⣿⣿⣿⣿⠀⠀⠀⠸⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⣿⡇⠀⠀⠀⣼⣿⣿⣿⣿⣿⡄⠀⠀⠀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⣿⠁⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⠆⠀⠀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⣿⣇⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⢠⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢻⣿⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⣿⣿⣿⣿⠋⠉⠉⠛⠉⠋⠻⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢀⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⣾⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⣤⣾⣿⣿⣿⣿⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢹⣿⣿⣿⣿⡇⠙⠀⠀⠀⢸⠋⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢻⣿⣿⢿⣷⡢⡀⠀⠀⢀⣰⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠈⢿⣿⠀⠁⠁⠀⠀⠀⠀⠉⢠⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠘⣿⡄⠀⠀⠀⠀⠀⠀⠀⣾⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢻⣇⠀⠀⠀⠀⠀⠀⢸⣿⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣾⡿⠀⠀⠀⠀⠀⠀⠘⢿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢸⣿⠃⠀⠀⠀⠀⠀⠀⠀⠈⠻⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀
+☻% 𝐃𝐄𝐀𝐓𝐇 𝐍𖣠𝐓𝐄 ☦︎📓 ݈݇⎼⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊        
 │𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
 │𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : ${runtime(process.uptime())}
@@ -1520,9 +1540,10 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 │𝗧𝗶??𝗲 : ${xtime}
 │𝗗𝗮𝘁𝗲 : ${xdate}
 └┬────────────┈ ⳹
-   │✑  Type the *MENU*
+   │✑  Please Type The *MENU*
    │✑  Given *BELOW*
-┌└─────────────┈ ⳹
+┌└☻% 𝐃𝐄𝐀𝐓𝐇 𝐍𖣠𝐓𝐄 ☦︎📓 ݈݇⳹
+✞︎
 │❏.allmenu
 │❏.downloadmenu
 │❏.funmenu
@@ -1541,7 +1562,8 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 │❏.stalkermenu
 │❏.bugmenu
 │❏.othermenu
-└─────────────────┈ ⳹`
+✞︎
+└☻% 𝐃𝐄𝐀𝐓𝐇 𝐍𖣠𝐓𝐄 ☦︎📓 ݈݇ ⳹`
             let ments = [ownernya, me, mark]        
            XeonBotInc.sendMessage(from, { 
 text: xeonezy,
@@ -4295,7 +4317,7 @@ case 'style': case 'styletext': {
                 replygcxeon(teks)
 	    }
 	    break
-case 'candy': v
+case 'candy': 
 case 'christmas': 
 case '3dchristmas': 
 case 'sparklechristmas':
@@ -5982,49 +6004,49 @@ const reply = `
     return replygcxeon(`*${q}* isn't a valid text`)
     }
     break
-                case 'can': {
-            	if (!text) return replygcxeon(`Ask question\n\nExample : ${prefix + command} i dance?`)
-            	let bisa = [`Of Course You Can, asl long as you believe in yourself`]
+                case 'Ryuk': {
+            	if (!text) return replygcxeon(`Ask question\n\nExample : ${prefix + command} i Apple?`)
+            	let bisa = [`give me an apple 🍎🍏`]
                 let keh = bisa[Math.floor(Math.random() * bisa.length)]
-                let jawab = `*Can ${text}*\nAnswer : ${keh}`
+                let jawab = `*Ryuk ${text}*\nAnswer : ${keh}`
             await replygcxeon(jawab)
             }
             break
-            case 'is': {
-            	if (!text) return replygcxeon(`Ask question\n\nExample : ${prefix + command} she virgin?`)
-            	let apa = [``]
+            case 'Deathnote': {
+            	if (!text) return replygcxeon(`Ask question\n\nExample : ${prefix + command} where is it?`)
+            	let apa = [`ask Nathan or Maiki`]
                 let kah = apa[Math.floor(Math.random() * apa.length)]
-                let jawab = `*Is ${text}*\nAnswer : ${kah}`                
+                let jawab = `*Deathnote ${text}*\nAnswer : ${kah}`                
             await replygcxeon(jawab)
             }
             break
-            case 'when': {
-            	if (!text) return replygcxeon(`Ask question\n\nExample : ${prefix + command} will i get married?`)
-            	let kapan = [``] 
-               let koh = kapan[Math.floor(Math.random() * kapan.length)]
-                let jawab = `*${command} ${text}*\nAnswer : ${koh}`                
+            case 'Maiki': {
+            	if (!text) return replygcxeon(`Ask question\n\nExample : ${prefix + command} who is he?`)
+            	let kapan = ['His holder of the Death note hehehe']
+                let koh = kapan[Math.floor(Math.random() * kapan.length)]
+                let jawab = `*Maiki ${command} ${text}*\nAnswer : ${koh}`                
             await replygcxeon(jawab)
             }
             break
-case 'what': {
-            	if (!text) return replygcxeon(`Ask question\n\nExample : ${prefix + command} is your name?`)
-            	let lel = [`i don't know just try to be the best`]
+case 'Nathan': {
+            	if (!text) return replygcxeon(`Ask question\n\nExample : ${prefix + command} who is he?`)
+            	let lel = [`holder of the Death note aswell hehehe`]
                 let kah = lel[Math.floor(Math.random() * lel.length)]
-                let jawab = `*What ${text}*\nAnswer : ${kah}`                
+                let jawab = `*Nathan ${text}*\nAnswer : ${kah}`                
             await replygcxeon(jawab)
             }
             break
-case 'where': {
-if (!text) return replygcxeon(`Ask question\n\nExample : ${prefix + command} is your name?`)
-            	let wherelol = [`thats a question for you to ask yourself`]
+case 'who': {
+if (!text) return replygcxeon(`Ask question\n\nExample : ${prefix + command} is my owner??`)
+            	let wherelol = [`holder of death note Maiki amd Nathan`]
                 let kah = wherelol[Math.floor(Math.random() * wherelol.length)]
-                let jawab = `*Whwre ${text}*\nAnswer : ${kah}`              
+                let jawab = `*who ${text}*\nAnswer : ${kah}`              
             await replygcxeon(jawab)
             }
             break
 case 'how': {
-            	if (!text) return replygcxeon(`Ask question\n\nExample : ${prefix + command} to date girl?`)
-            	let gimana = [`by being the best kid`]
+            	if (!text) return replygcxeon(`Ask question\n\nExample : ${prefix + command} can you become a death note holder??`)
+            	let gimana = [`Ummm...`, `It's Difficult Bro`, `Sorry Ryuk Can't Answer`, `Try Searching On Google`,`Holy Cow! Really???`,`Dizzy Ah😴, don't wanna answer`,`Ohhh I See:(`,`The Patient, Boss:(`,`Really dude 🙄`]
                 let kah = gimana[Math.floor(Math.random() * gimana.length)]
                 let jawab = `*How ${text}*\nAnswer : ${kah}`                
             await replygcxeon(jawab)
