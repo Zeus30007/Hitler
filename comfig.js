@@ -30,9 +30,9 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = "𝗥𝗬𝗨𝗞"
-global.ownernumber = 'maiki88552@gmail.com'
-global.ownername = 'Maiki'
-global.ownerNumber = ["maiki88552@gmail.com"]
+global.ownernumber = '27795093088'
+global.ownername = 'ᴍᴀɪᴋɪ'
+global.ownerNumber = ["27795093088"]
 global.ownerweb = ""
 global.websitex = ""
 global.wagc = "https://chat.whatsapp.com/Bxtc63nFKB51sy4P2zay7Y"
@@ -41,7 +41,7 @@ global.wm = "𝗥𝗬𝗨𝗞."
 global.botscript = 'https://github.com/Zeus30007/Maiki800' //script link
 global.packname = "Sticker By"
 global.author = "ᴍᴀɪᴋɪ"
-global.creator = "maiki88552@gmail.com"
+global.creator = "27795093088"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
