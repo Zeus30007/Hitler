@@ -225,7 +225,7 @@ ppgroup = 'https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png?q=60'
 memb = metadata.participants.length
 XeonWlcm = await getBuffer(ppuser)
 XeonLft = await getBuffer(ppuser)
-                if (anu.action == 'add') {
+                if (anu.action == 'hshshs') {
                 const xeonbuffer = await getBuffer(ppuser)
                 let xeonName = num
                 const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
@@ -253,7 +253,7 @@ XeonBotInc.sendMessage(anu.id,
 "thumbnailUrl": ``,
 "thumbnail": XeonWlcm,
 "sourceUrl": `${wagc}`}}})
-                } else if (anu.action == 'remove') {
+                } else if (anu.action == 'hshshsh') {
                 	const xeonbuffer = await getBuffer(ppuser)
                     const xeontime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
 	                const xeondate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
